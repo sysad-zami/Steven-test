@@ -1,8 +1,7 @@
 # Steven-test
 # Hour Tracking
 My Ver
-The test repository now has a new featured branched off the master.
-
+Shafan Made this just useing this as a basepoint
 Day | Hours Studying | Subject type | Link
 ------------ | ------------- | ------------- | -------------
 1 | 2.5 | Lecture | https://www.youtube.com/watch?v=ecIWPzGEbFc
